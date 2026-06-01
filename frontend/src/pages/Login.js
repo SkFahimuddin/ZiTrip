@@ -49,7 +49,7 @@ const Login = () => {
             animation: 'pulse-glow 3s ease-in-out infinite'
           }}>✦</div>
           <h1 style={{ fontFamily: 'var(--font-display)', fontWeight: 800, fontSize: '1.8rem', letterSpacing: '-0.03em' }}>
-            Voyager<span style={{ color: 'var(--accent)' }}>AI</span>
+            ZiTrip<span style={{ color: 'var(--accent)' }}></span>
           </h1>
           <p style={{ color: 'var(--text-secondary)', marginTop: 6, fontSize: '0.9rem' }}>
             Your AI-powered travel companion

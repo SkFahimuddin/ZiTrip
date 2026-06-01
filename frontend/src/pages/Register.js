@@ -51,7 +51,7 @@ const Register = () => {
             boxShadow: '0 0 40px var(--accent-glow)'
           }}>✦</div>
           <h1 style={{ fontFamily: 'var(--font-display)', fontWeight: 800, fontSize: '1.8rem', letterSpacing: '-0.03em' }}>
-            Join <span style={{ color: 'var(--accent)' }}>VoyagerAI</span>
+            Join <span style={{ color: 'var(--accent)' }}>ZiTrip</span>
           </h1>
           <p style={{ color: 'var(--text-secondary)', marginTop: 6, fontSize: '0.9rem' }}>
             Start planning smarter trips today

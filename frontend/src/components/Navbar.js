@@ -40,7 +40,7 @@ const Navbar = () => {
             fontSize: '1.1rem',
             color: 'var(--text-primary)',
             letterSpacing: '-0.02em'
-          }}>Voyager<span style={{ color: 'var(--accent)' }}>AI</span></span>
+          }}>ZiTrip<span style={{ color: 'var(--accent)' }}></span></span>
         </div>
       </Link>
 
